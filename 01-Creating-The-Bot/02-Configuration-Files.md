@@ -1,3 +1,5 @@
+**Configuration Files**
+
 As you get deeper into development, you may need to interact with sensitive data or data that gets used in multiple locations, such as:
 
 - Database passwords
